@@ -1,3 +1,4 @@
+![logo](https://github.com/anwarnagori/anwarnagori/blob/main/Github%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Anwar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
